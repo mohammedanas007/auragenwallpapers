@@ -1,0 +1,6 @@
+{
+  "name": "AI Wallpaper Generator",
+  "description": "Create stunning, high-quality, 4K wallpapers for mobile and desktop. Features customized negative space, icon-safe zones, aesthetic preset styles (Glow Portrait, Anime, Seasonal FX), custom photo uploads, and dynamic interactive live-wallpaper animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
