@@ -3,7 +3,7 @@
  **Direct Access Live App:** [https://ais-pre-yz24gixuyrtyshdno7nduf-411440095121.asia-east1.run.app](https://ais-pre-yz24gixuyrtyshdno7nduf-411440095121.asia-east1.run.app)
 
  
-**alternative Vercel App:** [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://wallpapers-smoky.vercel.app/)
+
  Aura is a full-stack, state-of-the-art interactive **AI Live Wallpaper Studio** built on **React 18**, **Vite**, **TypeScript**, **Tailwind CSS**, and **Node.js/Express**. Powered by the **Gemini API** (Aura Creative Engine), Aura allows users to generate breathtaking, high-fidelity 4K wallpapers tailored for mobile or desktop devices.
 
 ---
