@@ -1,16 +1,12 @@
 # Aura: AI Live Wallpaper Studio 🌌🎨
 
- **Direct Access Live App:** [https://ais-pre-yz24gixuyrtyshdno7nduf-411440095121.asia-east1.run.app](https://ais-pre-yz24gixuyrtyshdno7nduf-411440095121.asia-east1.run.app)
+ 
+### 🚀 Live Application Access [https://ais-pre-yz24gixuyrtyshdno7nduf-411440095121.asia-east1.run.app](https://ais-pre-yz24gixuyrtyshdno7nduf-411440095121.asia-east1.run.app)
 
  
 
  Aura is a full-stack, state-of-the-art interactive **AI Live Wallpaper Studio** built on **React 18**, **Vite**, **TypeScript**, **Tailwind CSS**, and **Node.js/Express**. Powered by the **Gemini API** (Aura Creative Engine), Aura allows users to generate breathtaking, high-fidelity 4K wallpapers tailored for mobile or desktop devices.
 
----
-
-### 🚀 Live Application Access
-Experience the application live in production:
-* **Direct Access Live App:** [https://ais-pre-yz24gixuyrtyshdno7nduf-411440095121.asia-east1.run.app](https://ais-pre-yz24gixuyrtyshdno7nduf-411440095121.asia-east1.run.app)
 
 ---
 
